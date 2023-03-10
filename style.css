@@ -1,0 +1,29 @@
+.border {
+  border: 1px solid;
+}
+.image {
+  height: 150px;
+  width: 150px;
+}
+h4 {
+  color: red;
+}
+.frontImage {
+  position: relative;
+  height: 60vh;
+  width: 100%;
+}
+.shopNowButton {
+  position: absolute;
+  left: 60px;
+  bottom: 45px;
+}
+.footer {
+  height: 20vh;
+  width: 100%;
+  margin-top: 10px;
+  background-color: #000000;
+}
+.btn {
+  margin-bottom: 10px;
+}
